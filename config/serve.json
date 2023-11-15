@@ -4,33 +4,33 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://metafinanz.sharepoint.com/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "fd8fcffe-5ba5-4bc9-9cdc-8ae704be06f6",
         "PageType": 8,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/Invoices",
         "properties": {
           "sampleText": "Value"
         }
       }
     },
     "pdfViewer_NewForm": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://metafinanz.sharepoint.com/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "fd8fcffe-5ba5-4bc9-9cdc-8ae704be06f6",
         "PageType": 8,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/Invoices",
         "properties": {
           "sampleText": "Value"
         }
       }
     },
     "pdfViewer_EditForm": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://metafinanz.sharepoint.com/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "fd8fcffe-5ba5-4bc9-9cdc-8ae704be06f6",
         "PageType": 6,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/Invoices",
         "ID": 1,
         "properties": {
           "sampleText": "Value"
@@ -38,11 +38,11 @@
       }
     },
     "pdfViewer_ViewForm": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://metafinanz.sharepoint.com/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "fd8fcffe-5ba5-4bc9-9cdc-8ae704be06f6",
         "PageType": 4,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/GRP_DWPOnboardingTraining/JessicasSandbox/PDFViewer/Invoices",
         "ID": 1,
         "properties": {
           "sampleText": "Value"

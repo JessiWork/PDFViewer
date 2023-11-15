@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Log, FormDisplayMode } from '@microsoft/sp-core-library';
 import { FormCustomizerContext } from '@microsoft/sp-listview-extensibility';
 
-import styles from './PdfViewer.module.scss';
+//import styles from './PdfViewer.module.scss';
 
 export interface IPdfViewerProps {
   context: FormCustomizerContext;
@@ -23,6 +23,6 @@ export default class PdfViewer extends React.Component<IPdfViewerProps, {}> {
   }
 
   public render(): React.ReactElement<{}> {
-    return <div className={styles.pdfViewer} />;
+    return <div/>;
   }
 }
