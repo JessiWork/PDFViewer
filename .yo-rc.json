@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "pdf-viewer",
+    "libraryId": "03fbd613-2710-4d9f-95e0-74aa0885532d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "PDF-Viewer",
+    "solutionShortDescription": "PDF-Viewer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FormCustomizer"
+  }
+}

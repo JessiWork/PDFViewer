@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pdf-viewer-client-side-solution",
+    "id": "03fbd613-2710-4d9f-95e0-74aa0885532d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "PDF-Viewer description"
+      },
+      "longDescription": {
+        "default": "PDF-Viewer description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pdf-viewer Feature",
+        "description": "The feature that activates elements of the pdf-viewer solution.",
+        "id": "b2dd9ff4-8497-468a-9028-f0c66aed0b2a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pdf-viewer.sppkg"
+  }
+}
